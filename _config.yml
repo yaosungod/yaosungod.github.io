@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Twitter
+  username               : &Twitter "yaosungod"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sun Yao"
-  avatar           : "profile.png"
+  avatar           : "28393 1-10 (3).jpg"
   bio              : "System Research Engineer & Manager <br> <br> Alchemist at Healthcare Technology"
   location         : "China"
   employer         :
