@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sun Yao / Site Title"
+title                    : "Sun Yao"
 title_separator          : "-"
 name                     : &name "Sun Yao"
-description              : &description "personal description"
+description              : &description "System Research Engineer & Manager"
 url                      : https://yaosungod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yaosungod/yaosungod.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sun Yao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "System Research Engineer & Manager <br> <br> Alchemist at Healthcare Technology"
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
