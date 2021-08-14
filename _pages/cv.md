@@ -11,21 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Depts. of Science, Qingdao Technological University, 2002
+* M.S. in School of Science, Nanjing University of Science and Technology, 2006
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2017: Senior System Research Engineer
+  * Vinno Corporation
+  * Duties included:
+    * Project Manger for Products
+    * Magager for System team
+    * Image Optimization
+    * Algorithms Development for Ultrasound Products
+    * Mathmatical Model for Ultrasound
+    * Signal Processing
+    * Image Processing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2015: Senior Technology Consultant
+  * Duties included:
+    * Mathmatical Model
+    * Signal Processing
+    * Image Processing
+  
+* July 2008: System Research Engineer
+  * Mindray Healthcare
+  * Duties included: 
+     * Ultrasonic Front-End and Acoustic Output Power
+     * Familiar with Regulations for medical diagnostic ultrasonic equipment, such as IEC, FDA and CFDA
+     * Excellent operation skill of various types of ultrasonic equipment
+     * Image Processing
+     * Provide technical guidance and market research on a business trip 
+
   
 Skills
 ======
