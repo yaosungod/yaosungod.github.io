@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Depts. of Science, Qingdao Technological University, 2002
+
 * M.S. in School of Science, Nanjing University of Science and Technology, 2006
+
 
 
 Work experience
@@ -53,6 +55,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Patents
+======
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
