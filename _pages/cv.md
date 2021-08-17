@@ -62,7 +62,7 @@ Patents
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.patents %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
