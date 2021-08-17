@@ -56,13 +56,13 @@ Skills
 
 Patents
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.patents %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Publications
 ======
-  <ul>{% for post in site.patents %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
