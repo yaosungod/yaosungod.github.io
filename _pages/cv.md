@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Depts. of Science, Qingdao Technological University, 2002
-
 * M.S. in School of Science, Nanjing University of Science and Technology, 2006
 
+* B.S. in Depts. of Science, Qingdao Technological University, 2002
 
 
 Work experience
