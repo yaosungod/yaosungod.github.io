@@ -47,13 +47,24 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Soft Skill
+  * Problem-solving
+  * Teamwork Skills
+  * Interpersonal Skills
+  * Written Communication
+  * Leadership 
+  * Technique Management and Project Management
+* Hard Skill
+  * System Engineer
+  * Algorithm
+  * Progamming
+  * Mathmatical Model
+  * Scientific Computation
+* Skill 3
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
+  
 Projects
 ======
   <ul>{% for post in site.projects %}
