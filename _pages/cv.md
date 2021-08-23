@@ -54,6 +54,12 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Patents
 ======
   <ul>{% for post in site.patents %}
