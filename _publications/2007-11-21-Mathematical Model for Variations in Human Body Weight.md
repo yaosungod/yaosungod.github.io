@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Model for Variations in Human Body Weight"
 collection: publications
-permalink: /publication/2007-11-21-Mathematical Model for Variations in Human Body Weight.md
+permalink: /publication/2007-11-21-Mathematical Model for Variations in Human Body Weight
 excerpt: 'This paper is about Mathematical Model for Variations in Human Body Weight.'
 date: 2006
 venue: 'Nov 21—23'
