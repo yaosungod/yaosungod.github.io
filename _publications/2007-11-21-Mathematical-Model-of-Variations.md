@@ -1,7 +1,7 @@
 ---
 title: "Mathematical Model of Variations Speed on Sprint"
 collection: publications
-permalink: /publication/2007-11-21-Mathematical Model of Variations Speed on Sprint
+permalink: /publication/2007-11-21-Mathematical-Model-of-Variations
 excerpt: 'This paper is about Mathematical Model of Variations Speed on Sprint.'
 date: 2006
 venue: 'Nov 21'
