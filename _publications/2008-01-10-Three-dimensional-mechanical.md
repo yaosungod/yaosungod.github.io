@@ -1,7 +1,7 @@
 ---
 title: "Three dimensional mechanical-mathematical model and algorithm of oral mandibular jaw"
 collection: publications
-permalink: /publication/2008-01-10-Three dimensional mechanical-mathematical model and algorithm of oral mandibular jaw
+permalink: /publication/2008-01-10-Three-dimensional-mechanical
 excerpt: 'This paper is about  Three dimensional mechanical-mathematical model and algorithm of oral mandibular jaw.'
 date: 2008
 venue: 'Journal'
