@@ -1,7 +1,7 @@
 ---
 title: "Dynamics Analysis of the Masticatory System with Biomechanical and Mathematical Model"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2008-10-01-Dynamics Analysis of the Masticatory System with Biomechanical and Mathematical Model
 excerpt: 'This paper is about Dynamics Analysis of the Masticatory System with Biomechanical and Mathematical Model.'
 date: 2008
 venue: 'Oct 1'
