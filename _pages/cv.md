@@ -18,6 +18,13 @@ Education
 
 Work experience
 ======
+* April 2021: Senior Technology Consultant
+  * Duties included:
+    * Transducer Design and Simulation
+    * Ultrasound System Design
+    * Mathmatical Model
+    * Signal Processing
+    * Image Processing
 * January 2017: Senior System Research Engineer
   * Vinno Corporation
   * Duties included:
